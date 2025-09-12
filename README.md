@@ -60,6 +60,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-dhavan&layout=compact&theme=tokyonight" width="40%" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
