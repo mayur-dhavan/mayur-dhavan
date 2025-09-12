@@ -57,7 +57,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mayur-dhavan&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-dhavan&layout=compact&theme=tokyonight" width="40%" />
+</p>
 ---
 
 ## 🚀 Featured Projects
