@@ -157,7 +157,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayur-dhavan-50902922b"><img src="https://img.shields.io/badge/LinkedIn-Mayur%20Dhavan-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mayur-portfolio-1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=flat&logo=firefox-browser&logoColor=white" /></a>
+  <a href="https://mayur-dhavan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=flat&logo=firefox-browser&logoColor=white" /></a>
   <a href="mailto:mayurdhavan2244@gmail.com"><img src="https://img.shields.io/badge/Email-mayurdhavan2244@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/mayur-dhavan"><img src="https://img.shields.io/badge/GitHub-mayur--dhavan-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
