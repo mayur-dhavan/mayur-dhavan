@@ -57,7 +57,9 @@
 ---
 
 ## 🏆 GitHub Stats & Analytics
-
+![](https://github-readme-stats.vercel.app/api?username=mayur-dhavan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mayur-dhavan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-dhavan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur-dhavan&theme=tokyonight&hide_border=true&background=0D1117&fire=FF5722" alt="Streak" />
 </div>
