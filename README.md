@@ -138,9 +138,9 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- 🚀 Launch a **Shopify + AI Automation Studio**
+- 🚀 Launch a **AI Automation Studio**
 - 🔓 Become a frequent **open-source contributor**
 - 🧠 Build advanced **AI-powered SaaS and Web Systems**
 
