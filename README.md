@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Mayur Dhavan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <b>AI Automation & Development Engineer | Full Stack Developer | SaaS Builder</b><br>
+  <b>AI Automation & Development Engineer | AWS AI League Champion, Bengaluru🏆 | SaaS Builder</b><br>
   Currently preparing to attend <b>AWS re:Invent 2026</b> in Las Vegas to dive deeper into serverless architecture and AI integrations.
   <i>Building intelligent automations, scalable systems, and modern web applications.</i>
 </p>
