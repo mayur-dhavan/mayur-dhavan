@@ -130,6 +130,27 @@
   </tr>
 </table>
 
+## 🔓 Open Source Contributions
+
+Merged pull requests I authored:
+
+| Project | Pull request | Merged |
+| :--- | :--- | :---: |
+| [fastify/fastify](https://github.com/fastify/fastify) | [#7159](https://github.com/fastify/fastify/pull/7159) - docs: fix syntax errors in code examples | Oct 25, 2026 |
+| [honojs/website](https://github.com/honojs/website) | [#925](https://github.com/honojs/website/pull/925) - docs: remove stray `?` in `c.req.raw.cf` example | Oct 26, 2026 |
+| [AlexandreDecan/portion](https://github.com/AlexandreDecan/portion) | [#115](https://github.com/AlexandreDecan/portion/pull/115) - Fix IntervalDict.combine dropping pieces of the domain intersection | Oct 26, 2026 |
+| [scrapy/protego](https://github.com/scrapy/protego) | [#106](https://github.com/scrapy/protego/pull/106) - Skip a leading UTF-8 byte order mark when parsing robots.txt | Oct 26, 2026 |
+| [barrust/pyprobables](https://github.com/barrust/pyprobables) | [#149](https://github.com/barrust/pyprobables/pull/149) - Fix CuckooFilter losing elements when an insert or expansion fails | Oct 27, 2026 |
+| [pyscaffold/configupdater](https://github.com/pyscaffold/configupdater) | [#178](https://github.com/pyscaffold/configupdater/pull/178) - Ensure a newline before a new option when the file lacks a trailing newline | Oct 27, 2026 |
+| [prisma/web](https://github.com/prisma/web) | [#8600](https://github.com/prisma/web/pull/8600) - docs: fix broken code examples in Prisma Client reference | Oct 28, 2026 |
+| [ota-meshi/eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) | [#1078](https://github.com/ota-meshi/eslint-plugin-regexp/pull/1078) - Fix unsound autofix in optimal-quantifier-concatenation around lookarounds | Oct 29, 2026 |
+| [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [#5646](https://github.com/n8n-io/n8n-docs/pull/5646) - docs: fix the DB_SQLITE_POOL_SIZE default and outdated journal-mode description | Nov 3, 2026 |
+| [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | [#70211](https://github.com/woocommerce/woocommerce/pull/70211) - Fix `containsLeapYear` for date-only strings in timezones west of UTC | Nov 5, 2026 |
+
+Co-authored contribution (credited in a maintainer's commit):
+
+- [colinhacks/zod](https://github.com/colinhacks/zod) - I reported [#6685](https://github.com/colinhacks/zod/issues/6685) (Zod Mini examples used classic `.min()`). It was fixed in the maintainer's docs PR [#6728](https://github.com/colinhacks/zod/pull/6728), where I am credited as co-author in [commit 30d0f9f](https://github.com/colinhacks/zod/commit/30d0f9fd11d6a026900d7291c0c6e8ab3553764d).
+
 ## 🌱 Currently Growing In
 
 - 🤖 **AI Agents & n8n Workflow Automation**
