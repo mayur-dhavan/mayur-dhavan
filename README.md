@@ -4,7 +4,6 @@
 
 <p align="center">
   <b>AI Automation & Development Engineer | AWS AI League Champion, Bengaluru🏆 | SaaS Builder</b><br>
-  Currently preparing to attend <b>AWS re:Invent 2026</b> in Las Vegas to dive deeper into serverless architecture and AI integrations.
   <i>Building intelligent automations, scalable systems, and modern web applications.</i>
 </p>
 
