@@ -148,6 +148,7 @@ Merged pull requests I authored:
 | [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | [#70211](https://github.com/woocommerce/woocommerce/pull/70211) - Fix `containsLeapYear` for date-only strings in timezones west of UTC | Nov 5, 2026 |
 | [cpburnz/python-pathspec](https://github.com/cpburnz/python-pathspec) | [#171](https://github.com/cpburnz/python-pathspec/pull/171) - Fix explicit `**/*/**` matching top-level directories | Nov 7, 2026 |
 | [Automattic/mongoose](https://github.com/Automattic/mongoose) | [#16732](https://github.com/Automattic/mongoose/pull/16732) - fix(array): respect `castNonArrays` path option on nested arrays | Nov 23, 2026 |
+| [Automattic/mongoose](https://github.com/Automattic/mongoose) | [#16733](https://github.com/Automattic/mongoose/pull/16733) - fix(schema): remove alias mapping in `removeVirtual()` | Nov 23, 2026 |
 
 Co-authored contribution (credited in a maintainer's commit):
 
