@@ -76,8 +76,8 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚖️ <a href="https://lawliftdigital.com/">LawLift Digital</a></h3>
-      <p align="center">Digital marketing platform for US Legal Professionals.</p>
+      <h3 align="center">🌳<a href="https://www.biofuelcircle.com/">BiofuelCircle</a></h3>
+      <p align="center">BiofuelCircle connects biomass supply, bioenergy demand and circular value through technology.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react" />
